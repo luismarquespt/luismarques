@@ -5,6 +5,18 @@ I work as a freelance web developer and I'm looking for my first professional op
 I enjoy learning new technologies, taking on challenges, and creating interfaces that truly make a difference.<br>
 
 <p align="left">
+    <a href="https://instagram.com/luismarquespt" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            target="_blank"
+        />
+    </a>
+    <a href="https://discord.gg/576p5aYsYz" target="_blank">
+        <img 
+            src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)"
+            target="_blank"
+        />
+    </a>
     <a href="https://github.com/luismarquespt?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
